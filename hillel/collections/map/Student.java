@@ -1,6 +1,6 @@
-package hillel.collections;
+package hillel.collections.map;
 
-public class Student extends Human{
+public class Student extends Human {
 
   String name;
   int age;

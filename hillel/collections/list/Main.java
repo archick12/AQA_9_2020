@@ -1,4 +1,4 @@
-package hillel.collections;
+package hillel.collections.list;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,6 +1,7 @@
-package hillel.collections;
+package hillel.collections.list;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Main2 {
 

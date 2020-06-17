@@ -1,4 +1,4 @@
-package hillel.collections;
+package hillel.collections.map;
 
 public class Teacher extends Human {
 
